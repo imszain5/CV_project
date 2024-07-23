@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 160px;
+    height: 200px;
+    border-radius: 50%;
+}
+.header{
+    margin-left: 40%;
+}
+h3{
+    font-size: 15px;
+}
+.exp{
+    border: 1px solid black;
+    background-color: rgb(159, 151, 151);
+}
